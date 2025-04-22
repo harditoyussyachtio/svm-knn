@@ -1,0 +1,15 @@
+[package]
+name = "svm-knn"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+csv = "1.3.1"
+linfa = "0.7.1"
+linfa-svm = "0.7.2"
+linfa-nn = "0.7"
+linfa-kernel = "0.7.1"
+linfa-logistic = "0.7.1"
+ndarray = "0.15.6"
+rand = "0.8.5"
+plotters = "0.3.7"
